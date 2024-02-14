@@ -1,0 +1,42 @@
+td { font-family: Courier New; font-size: 15px; font-weight: normal; text-align:center;  } 
+p { font-family: Courier New; font-size: 15px; font-weight: normal; text-align:justify} 
+
+
+
+
+
+
+
+
+a  { text-decoration:none font-family: Verdana; font-size: 10 pt; font-weight: bold; text-align:justify;}
+
+a:hover { text-decoration:none; color:red; }
+
+a:link       { text-decoration: none; color:black }
+
+a:visited    { text-decoration: none;}
+
+a:active     { text-decoration: none;  color:black }
+
+
+
+
+
+
+body
+{ 
+background-image:url('img/veracruzEscenario1024x768.png');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center; 
+}
+
+
+span
+{
+float:left;
+width:0.7em;
+font-size:400%;
+font-family:algerian,courier;
+line-height:80%;
+}
